@@ -1,5 +1,5 @@
 <div align="center" style="">
-<img alt="Teruo-pic" height="100" src="https://github.com/teruo-ot.png">
+<img alt="Teruo-pic" height="100" src="https://github.com/teruo-ot/teruo-ot/blob/main/teruo-picture.png">
 </div>
 
 
