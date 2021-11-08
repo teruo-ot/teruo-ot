@@ -32,9 +32,6 @@
   ## 
 
 <div align="center">
-<a href="https://github.com/teruo-ot/cv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teruo-ot&theme=material-palenight&repo=cv" />
-</a>
   <a href="https://github.com/teruo-ot/isci">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teruo-ot&theme=material-palenight&repo=isci" />
 </a>
