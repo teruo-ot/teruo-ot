@@ -32,7 +32,7 @@
   ## 
 
 <div align="center">
-  <a href="https://github.com/teruo-ot/isci">
+  <a href="https://github.com/teruo-ot/lua">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teruo-ot&theme=material-palenight&repo=isci" />
 </a>
 <a href="https://github.com/teruo-ot/patriciamartinelli.com.br">
