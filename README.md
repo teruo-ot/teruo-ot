@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/teruo-ot/lua">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teruo-ot&theme=material-palenight&repo=isci" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teruo-ot&theme=material-palenight&repo=lua" />
 </a>
 <a href="https://github.com/teruo-ot/patriciamartinelli.com.br">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teruo-ot&theme=material-palenight&repo=patriciamartinelli.com.br" />
